@@ -155,12 +155,13 @@ public class FootballScoreBoard {
 	}
 
 	/**
-	 * Method to get summary of the match. If match list is not empty call
-	 * getMatchSummary method Else no matches are going on. Start the game Get the
-	 * match list which holds the details of matches which is completed Reverse the
-	 * list, since we need last completed match should come in the list first Sort
-	 * the list based on the total goal scored in the match Show the match summary
-	 * with the sorted list
+	 * Method to get summary of the match. 
+	 * If match list is not empty call getMatchSummary method
+	 * Else no matches are going on. Start the game
+	 * Get the match list which holds the details of matches which is completed
+	 * Reverse the list, since we need last completed match should come in the list first 
+	 * Sort the list based on the total goal scored in the match 
+	 * Show the match summary with the sorted list
 	 * 
 	 * @return
 	 */
